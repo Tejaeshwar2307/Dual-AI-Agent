@@ -1,0 +1,7 @@
+openai
+langchain
+langgraph
+tavily-python
+faiss-cpu
+streamlit  # Optional for UI
+jupyter    # Optional for testing
